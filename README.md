@@ -361,6 +361,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Webchats.*
 
 * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+* [Mattermost](http://www.mattermost.com/) - Slack-alternative written in Golang and React for self-hosting.
+* [Riot](https://riot.im/) - Team chat built on top of the decentralized matrix protocol.
 
 ## Monitoring
 
